@@ -1,9 +1,7 @@
 # Hello, I'm Brittany
 <a href="https://linkedin.com/in/brittany-burrell-217b2627b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Cybersecurity major with a concentration in Data Analytics. I work on cybersecurity scripts, automation tools, and data-driven projects using Python, SQL, and Java, with a focus on detecting vulnerabilities and debriefing security findings. I'm an aspiring penetration tester, always learning and open to collaboration.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
