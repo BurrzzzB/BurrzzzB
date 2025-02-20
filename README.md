@@ -4,9 +4,7 @@
 I am a Cybersecurity major with a concentration in Data Analytics. I work on cybersecurity scripts, automation tools, and data-driven projects using Python, SQL, and Java, with a focus on detecting vulnerabilities and debriefing security findings. I'm an aspiring penetration tester, always learning and open to collaboration.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+This GitHub serves as a portfolio of my work in cybersecurity, blending practical applications and research in penetration testing and vulnerability detection. My goal is to document my learning journey, refine my skills, and attract potential employers while continuously expanding my knowledge in security and data analytics.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
